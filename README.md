@@ -1,1 +1,1 @@
-# AWS_Big_Data_Study_Resources
+This repository contains the resources I used when studying for AWS Certified Data Analytics Certification. 
