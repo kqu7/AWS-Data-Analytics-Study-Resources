@@ -1,8 +1,6 @@
 ## Introduction 🔔 :
----
 This section includes the best practices for various AWS data analytic services.  
 ## Table of Contents
----
 - [Amazon S3](#Amazon-S3)
 - [Amazon Kinesis](#Amazon-Kinesis)
 - [Amazon Lambda](#Amazon-Lambda)
@@ -16,7 +14,6 @@ This section includes the best practices for various AWS data analytic services.
 <div style="text-align: right"> ⬆️  &nbsp; <a href="./README.md">Back to the Main Page</a> </div> 
 
 ## Amazon S3
----
 [Best practices design patterns: optimizing Amazon S3 performance](https://docs.aws.amazon.com/AmazonS3/latest/userguide/optimizing-performance.html)
 
 
@@ -26,9 +23,6 @@ This section includes the best practices for various AWS data analytic services.
 
 
 ## Amazon Kinesis
----
-TODO: collect more best practices for Kinesis stream and Kinesis firehose
-
 [Best Practices for Kinesis Analytics](https://docs.aws.amazon.com/kinesisanalytics/latest/dev/best-practices.html)
 
 
@@ -45,14 +39,12 @@ Security Best Practices:
 
 
 ## Amazon Lambda: 
----
 [Best practices for working with AWS Lambda functions](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
 
 [Best Practices for Developing on AWS Lambda](https://aws.amazon.com/blogs/architecture/best-practices-for-developing-on-aws-lambda/)
 
 
 ## Amazon DynamoDB: 
----
 Design
 - [Best Practices for Designing and Architecting with DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html)
 - [Best Practices for Using Sort Keys to Organize Data](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-sort-keys.html)
@@ -64,7 +56,6 @@ Security
 
 
 ## Amazon EMR
---- 
 Configuration
 - [Cluster Configuration Guidelines and Best Practices](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-plan-instances-guidelines.html)
 
@@ -77,7 +68,6 @@ Security
 
 
 ## Amazon Redshift
---- 
 Redshift Spectrum Best Practices
 - [Best Practices for Amazon Redshift Spectrum](https://aws.amazon.com/blogs/big-data/10-best-practices-for-amazon-redshift-spectrum/)
 
@@ -92,7 +82,6 @@ Redshift Best Practices
 
 
 ## Amazon Athena:
---- 
 [Top 10 Performance Tuning Tips for Amazon Athena](https://aws.amazon.com/blogs/big-data/top-10-performance-tuning-tips-for-amazon-athena/)
 
 [Considerations and Best Practices](https://docs.aws.amazon.com/athena/latest/ug/partition-projection.html)
@@ -102,7 +91,6 @@ Redshift Best Practices
 
 
 ## Amazon Elasticsearch
----
 Configuration
 - [Best practices for configuring your Amazon Elasticsearch Service domain](https://aws.amazon.com/blogs/big-data/best-practices-for-configuring-your-amazon-elasticsearch-service-domain/)
 
@@ -111,7 +99,6 @@ Performance
 
 
 ## Amazon Security: 
----
 IAM
 - [IAM Best Practices](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
 

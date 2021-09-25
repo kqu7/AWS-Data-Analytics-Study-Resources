@@ -1,9 +1,7 @@
 ## Introduction
----
 This section contains selected concepts/features I encountered while doing practice problems on some third-party platforms such as Whizlab. This is not a comprehensive listing, but you can probably use it for self-check.
 
 ## Table of Contents
----
 - [Amazon S3](#Amazon-S3)
 - [Amazon Kinesis Streams](#Amazon-Kinesis-Streams)
 - [Amazon Kinesis Firehose](#Amazon-Kinesis-Firehose)
@@ -25,7 +23,6 @@ This section contains selected concepts/features I encountered while doing pract
 - for each service or feature, should at least think about *how it works* and its *use cases*
 
 ## Amazon S3
---- 
 ### Additional Features
 - [Amazon S3 inventory](https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-inventory.html)
 
@@ -35,7 +32,6 @@ This section contains selected concepts/features I encountered while doing pract
 - [Access policy guidelines](https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-policy-alternatives-guidelines.html)
 
 ## Amazon Kinesis Streams
----
 ### Architecture: 
 - Sources
     - [Kinesis Agent](https://docs.aws.amazon.com/streams/latest/dev/writing-with-agents.html#pre-processing)
@@ -55,7 +51,6 @@ This section contains selected concepts/features I encountered while doing pract
 
 
 ## Amazon Kinesis Firehose
----
 ### Additional Features
 - [Amazon Kinesis Data Firehose Data Transformation](https://docs.aws.amazon.com/firehose/latest/dev/data-transformation.html) 
 
@@ -73,7 +68,6 @@ This section contains selected concepts/features I encountered while doing pract
     - [Encryption](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html)
 
 ## Amazon DynamoDB
----
 ### Architecture
 - [Core Components of Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.CoreComponents.html)
 
@@ -94,7 +88,6 @@ This section contains selected concepts/features I encountered while doing pract
 - [How do I choose the right primary key for a DynamoDB table?](https://aws.amazon.com/premiumsupport/knowledge-center/primary-key-dynamodb-table/)
 
 ## Amazon Redshift
----
 ### Architecture
 - [Data distribution style](https://docs.aws.amazon.com/redshift/latest/dg/c_choosing_dist_sort.html)
 - [Working with Sort Keys](https://docs.aws.amazon.com/redshift/latest/dg/t_Sorting_data.html)
@@ -143,7 +136,6 @@ This section contains selected concepts/features I encountered while doing pract
 
 
 ## Amazon Glue
----
 ### Additional Features
 - [Overview of Workflows in AWS Glue](https://docs.aws.amazon.com/glue/latest/dg/workflows_overview.html)
 
@@ -152,7 +144,6 @@ This section contains selected concepts/features I encountered while doing pract
 - [AWS Glue Triggers](https://docs.aws.amazon.com/glue/latest/dg/about-triggers.html)
 
 ## Amazon Elastic MapReduce (EMR)
----
 ### Configuration
 - [Create a cluster with instance fleets or uniform instance groups
 ](https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-instance-group-configuration.html)
@@ -171,7 +162,6 @@ This section contains selected concepts/features I encountered while doing pract
 - [Secure your data on Amazon EMR using native EBS and per bucket S3 encryption options](https://aws.amazon.com/blogs/big-data/secure-your-data-on-amazon-emr-using-native-ebs-and-per-bucket-s3-encryption-options/)
 
 ## Amazon Athena
----
 ### Architecture
 - Data Sources
     - [AWS Glue](https://docs.aws.amazon.com/athena/latest/ug/data-sources-glue.html) 
@@ -188,7 +178,6 @@ This section contains selected concepts/features I encountered while doing pract
 - [Fine-Grained Access to Databases and Tables in the AWS Glue Data Catalog](https://docs.aws.amazon.com/athena/latest/ug/fine-grained-access-to-glue-resources.html)
 
 ## Amazon Data Migration Service (DMS)
----
 ### Architecture
 - [How AWS Database Migration Service works](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.html)
 - [Heterogeneous database migration](https://docs.aws.amazon.com/prescriptive-guidance/latest/migration-oracle-database/heterogenous-migration.html)
@@ -197,13 +186,11 @@ This section contains selected concepts/features I encountered while doing pract
 - [How can I troubleshoot high target latency on an AWS DMS task?](https://aws.amazon.com/premiumsupport/knowledge-center/dms-high-target-latency/)
 
 ## Amazon ElasticSearch
---- 
 ### Additional Features: 
 - [Kibana](https://docs.aws.amazon.com/elasticsearch-service/latest/developerguide/es-kibana.html)
 - [Using Kibana with Amazon Elasticsearch Service](https://docs.aws.amazon.com/elasticsearch-service/latest/developerguide/es-kibana.html#es-kibana-proxy)
 
 ## Others
----
 [Amazon SNS](https://docs.aws.amazon.com/sns/latest/dg/welcome.html)
 - [Using Amazon SNS for application-to-application (A2A) messaging](https://docs.aws.amazon.com/sns/latest/dg/sns-system-to-system-messaging.html)
 

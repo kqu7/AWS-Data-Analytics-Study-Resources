@@ -1,9 +1,7 @@
 ## Introduction
---- 
 This section contains a list of whitepapers for different AWS data analytic services. 
 
 ## Table of Contents
---- 
 - [Amazon Kinesis](#Amazon-Kinesis)
 - [Amazon Elastic MapReduce](#Amazon-Elastic-MapReduce-(EMR))
 - [Amazon Redshift](#Amazon-Redshift)
@@ -14,13 +12,11 @@ This section contains a list of whitepapers for different AWS data analytic serv
 
 
 ## Amazon Kinesis 
----
 [*Streaming Data Solutions on AWS with Amazon Kinesis*](https://d0.awsstatic.com/whitepapers/whitepaper-streaming-data-solutions-on-aws-with-amazon-kinesis.pdf)
 - Summary: 
     - Introduce various AWS services that support real-time or near real-time processing and corresponding architecture patterns through an example
 
 ## Amazon Elastic MapReduce (EMR)
----
 [*Best Practices for Amazon EMR*](https://d0.awsstatic.com/whitepapers/aws-amazon-emr-best-practices.pdf)
 - Summary: 
     - Best practices of Amazon EMR in terms of cost and efficiency under various scenarios
@@ -33,7 +29,6 @@ This section contains a list of whitepapers for different AWS data analytic serv
     - This guide is very long. Instead of reading it entirely, you can just look at its *table of contents* first and check out related topics that you are not familiar with
 
 ## Amazon Redshift
----
 [*Data Warehousing on AWS*](https://d0.awsstatic.com/whitepapers/enterprise-data-warehousing-on-aws.pdf)
 - Summary: 
     - Introduce the general data analytic pipeline, with focus on Redshift as the data warehouse technology option later
@@ -44,13 +39,11 @@ This section contains a list of whitepapers for different AWS data analytic serv
 
 
 ## Amazon ElasticSearch
----
 [*Use Amazon Elasticsearch Service to Log and Monitor (Almost) Everything*](https://d0.awsstatic.com/whitepapers/whitepaper-use-amazon-elasticsearch-to-log-and-monitor-almost-everything.pdf?ref=wellarchitected)
 - Summary: 
     - Introduce Amazon Elasticsearch and its integration with other AWS services
 
 ## Big Data in General
----
 [*Big Data Analytics Options on AWS*](https://d0.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf)
 - Summary: 
     - Overview of AWS big data technologies, along with three examples demonstrating how to orchestrate them to apply in real-life scenarios
